@@ -5,6 +5,8 @@ Signal Processing Laboratory</p>
 ## Ofek Ophir<br>
 #### Advisor: Mr. Aviad Eisenberg
 #### Academic Advisor: Prof. Sharon Ganot<br>
+![image](https://user-images.githubusercontent.com/80195693/134568276-145c3ed2-52ae-4c3d-9cb5-ef63c99eac08.png)
+
 ## Abstract
 
 <p>Speech separation is a core problem is signal processing, real world speech signals
